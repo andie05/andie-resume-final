@@ -11,7 +11,7 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## Summary
 
 Standing on the shoulders of giants
 
