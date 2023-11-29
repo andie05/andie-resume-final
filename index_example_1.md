@@ -42,7 +42,7 @@ __Trinity College, Cambridge__
 
 
 
-## Awards
+## Experience
 
 `2012`
 President, *Royal Society*, London, UK
