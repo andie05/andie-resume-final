@@ -1,9 +1,9 @@
 ---
-layout: resume
-title: Brigham Young's Resume
+layout: cv
+title: Andie Razakamanana's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Andie Razakamanana
+Student at Brigham Yound University Idaho 
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
