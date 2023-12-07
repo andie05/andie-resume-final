@@ -15,18 +15,32 @@ Student at Brigham Yound University Idaho
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`September 2022 - December 2026`
+__Brigham Young University - Idaho__, Rexburg, Idaho
+    Business Analytics
+-  Earned GPA of 3.94 for the first semester.
 
-- Full academic scholarship with 4.0 GPA
+`January 2014 - December 2017`
+__University of Antananarivo__, Antananarivo, Madagascar
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- Earned Social Psychology Degree from the University of Antananarivo
 
 
-## Related Experience
+##  Experience
+`September 2022 - Present`
+__Brigham Young University - Idaho__, Brigham Young University - Idaho
+    Food Services
+-  Monitored as a student lead of night shift janitorial at the crossroad of BYU Idaho.
+`January 2022 - December 2022`
+__Private Company__, Translator-Transcriber; Antananarivo-Madagascar
+    This was a self-employed job on a virtual platform
+        Translated professional videos and audio from English to French, and French to English for one year.
+         Succeeded 20% of translation for the benefit of the platform of translation.
+__Brigham Young University - Idaho__
+
+__Brigham Young University - Idaho__
+
+__Brigham Young University - Idaho__
 
 ### Internships
 
