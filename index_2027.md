@@ -80,7 +80,25 @@ __OMAPI__, Data Arranger; Antananarivo Madagascar
 - Community Service: Giving food and clothes to the needy.
 -  Position of Responsibility: Teaching French and English for free to children.
 
-### Skills 
+### Skills
+
+ - Language: Spoke French(Native), English(Native), and Malagasy(Native).
+-  Computer Skills: Word, Excel, Powerpoint, Google slide, website.
+- Had Serious and strong adaptability to the new situation.
+-  Software Knowledge: Programing Python, SQL
+- Learned financial accounting.
+- An outgoing person and an eager learner.
+
+## Hobbies And Interest
+- Loved learning new skills.
+- Love watching documentaries about business
+
+
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+>>>>>>> 1baccdcab20423569d9ce8113fd17c9f8cce38e5
 
  - Language: Spoke French(Native), English(Native), and Malagasy(Native).
 -  Computer Skills: Word, Excel, Powerpoint, Google slide, website.
