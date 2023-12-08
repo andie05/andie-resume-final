@@ -12,7 +12,6 @@ Student at Brigham Yound University Idaho
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-
 ## Education
 
 `September 2022 - December 2026`
@@ -49,7 +48,6 @@ __The Church of Jesus Christ of Latter-Day Saints__, - Full time    missionary; 
 __The Church of Jesus Christ of Latter-Day Saints__, - Interpreter; Antananarivo, Madagascar.
     Service
      Interpreted Malagasy to English technical terms for 5 church leader during a conference.
-
 
 ### Leadership Experience
 
@@ -93,20 +91,3 @@ __OMAPI__, Data Arranger; Antananarivo Madagascar
 - Loved learning new skills.
 - Love watching documentaries about business
 
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
->>>>>>> 1baccdcab20423569d9ce8113fd17c9f8cce38e5
-
- - Language: Spoke French(Native), English(Native), and Malagasy(Native).
--  Computer Skills: Word, Excel, Powerpoint, Google slide, website.
-- Had Serious and strong adaptability to the new situation.
--  Software Knowledge: Programing Python, SQL
-- Learned financial accounting.
-- An outgoing person and an eager learner.
-
-## Hobbies And Interest
-- Loved learning new skills.
-- Love watching documentaries about business
