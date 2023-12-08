@@ -31,72 +31,64 @@ __University of Antananarivo__, Antananarivo, Madagascar
 __Brigham Young University - Idaho__, Brigham Young University - Idaho
     Food Services
 -  Monitored as a student lead of night shift janitorial at the crossroad of BYU Idaho.
+
 `January 2022 - December 2022`
 __Private Company__, Translator-Transcriber; Antananarivo-Madagascar
-    This was a self-employed job on a virtual platform
+    This was a self-employed job on a virtual platform.
         Translated professional videos and audio from English to French, and French to English for one year.
          Succeeded 20% of translation for the benefit of the platform of translation.
-__Brigham Young University - Idaho__
 
-__Brigham Young University - Idaho__
+`January 2021 - September 2022`
+__Private High School__, - French Tutoring; Antananarivo-Madagascar.
 
-__Brigham Young University - Idaho__
+`August 2019 - February 2021`
+__The Church of Jesus Christ of Latter-Day Saints__, - Full time    missionary; Congo Kinshasa East.
+    Evaluated as an efficient full-time missionary for 18 months.
+ 
+`August 2019 - August 2019 ` 
+__The Church of Jesus Christ of Latter-Day Saints__, - Interpreter; Antananarivo, Madagascar.
+    Service
+     Interpreted Malagasy to English technical terms for 5 church leader during a conference.
+
+
+### Leadership Experience
+
+`September 2021 - Present`
+__Crossroad- Food Services BYU idaho__, Student Lead; Rexburg
+Hired as an employer for the first 3 semesters and managed as a student lead for the last semester.
+- As an employer, coordinated as a janitorial: washed dishes, moped the floor, filtered the oil, cleaned overhead, and cleaned the 
+dishwasher machine for the night shift from 5 pm to 9 pm.
+- As a student lead, trained people to work as dishwashers, did basic cleaning of the kitchen, assuring people worked efficiently 
+and on time.
+
+`January 2018 - August 2019`
+__The Church of Jesus Christ of Latter-Day Saints__, - Primary President; Antananarivo, Madagascar
+- Coordinated 50 children during sunday school every sunday for over 15 months.
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2016 - February 2016 `
+__Rajaonarison International__, Client Leader; Antananarivo Madagascar
+-  Sold company services to other companies all around the town for two months.
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`January 2015 - February 2015 `
+__OMAPI__, Data Arranger; Antananarivo Madagascar
+- Registered data of new products for the company OMAPI for two months.
 
-### Data Science Lead
+### Extra Curricular Activities
+- Volunteer Experience: Mormon Helping Hand. It was about cleaning and coloring school.
+- Community Service: Giving food and clothes to the needy.
+-  Position of Responsibility: Teaching French and English for free to children.
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Skills 
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+ - Language: Spoke French(Native), English(Native), and Malagasy(Native).
+-  Computer Skills: Word, Excel, Powerpoint, Google slide, website.
+- Had Serious and strong adaptability to the new situation.
+-  Software Knowledge: Programing Python, SQL
+- Learned financial accounting.
+- An outgoing person and an eager learner.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+## Hobbies And Interest
+- Loved learning new skills.
+- Love watching documentaries about business
