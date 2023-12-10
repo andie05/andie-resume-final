@@ -10,9 +10,6 @@ Student at Brigham Yound University Idaho
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
-
-
 ## Education
 
 `September 2022 - December 2026`
