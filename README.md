@@ -1,57 +1,107 @@
-# md-resume
+---
+layout: cv
+title: Andie Razakamanana
+---
+# Andie Razakamanana
+Student at Brigham Yound University Idaho 
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
+<div id="webaddress">
+<a href="datascience@byui.edu">datascience@byui.edu</a>
+| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+</div>
 
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
-***
 
-## Customization
+## Education
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
+`September 2022 - December 2026`
+__Brigham Young University - Idaho__, Rexburg, Idaho
+    Business Analytics
+-  Earned GPA of 3.94 for the first semester.
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+`January 2014 - December 2017`
+__University of Antananarivo__, Antananarivo, Madagascar
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+- Earned Social Psychology Degree from the University of Antananarivo
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
 
-adding your skills, jobs and education.
+##  Experience
+`September 2022 - Present`
+__Brigham Young University - Idaho__, Brigham Young University - Idaho
+    Food Services
+-  Monitored as a student lead of night shift janitorial at the crossroad of BYU Idaho.
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+`January 2022 - December 2022`
+__Private Company__, Translator-Transcriber; Antananarivo-Madagascar
+    This was a self-employed job on a virtual platform.
+        Translated professional videos and audio from English to French, and French to English for one year.
+         Succeeded 20% of translation for the benefit of the platform of translation.
 
-## Distribution
+`January 2021 - September 2022`
+__Private High School__, - French Tutoring; Antananarivo-Madagascar.
 
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
+`August 2019 - February 2021`
+__The Church of Jesus Christ of Latter-Day Saints__, - Full time    missionary; Congo Kinshasa East.
+    Evaluated as an efficient full-time missionary for 18 months.
+ 
+`August 2019 - August 2019 ` 
+__The Church of Jesus Christ of Latter-Day Saints__, - Interpreter; Antananarivo, Madagascar.
+    Service
+     Interpreted Malagasy to English technical terms for 5 church leader during a conference.
 
-### I. Use Github Pages to publish it online
+### Leadership Experience
 
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
+`September 2021 - Present`
+__Crossroad- Food Services BYU idaho__, Student Lead; Rexburg
+Hired as an employer for the first 3 semesters and managed as a student lead for the last semester.
+- As an employer, coordinated as a janitorial: washed dishes, moped the floor, filtered the oil, cleaned overhead, and cleaned the 
+dishwasher machine for the night shift from 5 pm to 9 pm.
+- As a student lead, trained people to work as dishwashers, did basic cleaning of the kitchen, assuring people worked efficiently 
+and on time.
 
-![](docs_setup.png)
+`January 2018 - August 2019`
+__The Church of Jesus Christ of Latter-Day Saints__, - Primary President; Antananarivo, Madagascar
+- Coordinated 50 children during sunday school every sunday for over 15 months.
 
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
+### Internships
 
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
+`January 2016 - February 2016 `
+__Rajaonarison International__, Client Leader; Antananarivo Madagascar
+-  Sold company services to other companies all around the town for two months.
 
-## Styling
+`January 2015 - February 2015 `
+__OMAPI__, Data Arranger; Antananarivo Madagascar
+- Registered data of new products for the company OMAPI for two months.
 
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+### Extra Curricular Activities
+- Volunteer Experience: Mormon Helping Hand. It was about cleaning and coloring school.
+- Community Service: Giving food and clothes to the needy.
+-  Position of Responsibility: Teaching French and English for free to children.
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
+### Skills 
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
+ - Language: Spoke French(Native), English(Native), and Malagasy(Native).
+-  Computer Skills: Word, Excel, Powerpoint, Google slide, website.
+- Had Serious and strong adaptability to the new situation.
+-  Software Knowledge: Programing Python, SQL
+- Learned financial accounting.
+- An outgoing person and an eager learner.
 
-### Author
+## Hobbies And Interest
+- Loved learning new skills.
+- Love watching documentaries about business
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
+
+
+
+
+
+
+
+
+
+
 
 ![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
 
